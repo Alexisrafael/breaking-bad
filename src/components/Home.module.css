@@ -1,0 +1,59 @@
+.parrafo{
+    display: grid;
+    grid-template-columns: 400px 400px;
+    padding: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(216, 216, 216);
+    text-align: center;
+    text-shadow: 0px 1px 5px rgb(5, 5, 5);
+    -webkit-box-shadow: 0px -2px 45px 25px #000000; 
+    box-shadow: 0px -2px 45px 25px #000000;
+    background-color: rgba(3, 3, 3, 0.527);
+    font-size: large;
+    height: 1500px;
+}
+.titulo{
+    padding: 14px;
+    color: rgb(250, 245, 245);
+    text-shadow: 0px 1px 5px rgb(8, 8, 8);
+}
+
+.complemento{
+    display: grid;
+    grid-template-columns: 390px 390px;
+    padding: 15px;
+    
+    margin-left: 1.5%
+    
+}
+
+.imgj{
+    padding: 10px;
+    width: 350px;
+    height: 390px;
+    border-radius: 20%;
+    -webkit-box-shadow: 1px 6px 24px 18px #000000; 
+    box-shadow: 1px 6px 24px 18px #000000;
+}
+
+.myBoton{
+    color: rgb(255, 255, 255);
+    font-size: 19px; 
+    line-height: 19px; 
+    padding: 6px; 
+    border-radius: 12px; 
+    font-family: Georgia, serif; 
+    font-weight: normal; 
+    text-decoration: none; 
+    font-style: normal; 
+    font-variant: normal; 
+    text-transform: none; 
+    background-image: linear-gradient(to right, rgb(14, 16, 17) 0%, rgb(17, 19, 20) 50%, rgb(16, 18, 19) 100%); 
+    box-shadow: rgb(0, 0, 0) 5px 5px 15px 5px; 
+    border: 2px solid rgb(5, 7, 8); 
+    display: inline-block;}
+    .myButton:hover {
+    background: #030507; }
+    .myButton:active {
+    background: #04090c;
+}

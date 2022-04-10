@@ -1,8 +1,19 @@
 body {
-  margin: 0;
+  margin: 2%;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
-  background-color: #121212;
+  background-color: #020202;
   color: #fff;
+  align-content: center;
+  object-fit: contain;
+  flex-direction: column;
+  background-image: url(https://1.bp.blogspot.com/-uWP6wQg4_t0/Xvl53LGeQyI/AAAAAAAAAyc/nZxKh3q5w0U4O42S0T8dT_EldHUDEak9ACK4BGAsYHg/s1200/breaking-bad-1200.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-size: contain;
+}
+a{
+  color: rgb(255, 255, 255);
+  text-shadow: 1px 1px 5px rgb(5, 0, 0);
 }
